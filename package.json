@@ -31,9 +31,12 @@
   "homepage": "https://github.com/NativeScript/nativescript-app-templates",
   "dependencies": {
     "@nativescript/core": "~8.0.0",
-    "@nativescript/theme": "~3.0.1"
+    "@nativescript/theme": "~3.0.1",
+    "nativescript-dna-netservices": "file:nativescript-dna-netservices-2.0.0.tgz"
   },
   "devDependencies": {
+    "@nativescript/android": "8.0.0",
+    "@nativescript/ios": "8.0.0",
     "@nativescript/types": "~8.0.0",
     "@nativescript/webpack": "beta",
     "typescript": "~4.0.0"
